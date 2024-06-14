@@ -5,6 +5,6 @@
 
 Для запуска нужны:
 
-1. Векторные хранилища 2016 года ([файл 1](faiss_2016_index.index), [файл 2](faiss_2016_index.pkl)); до 2017 ([файл 3](combined_1_index.index), [файл 4](combined_1_index.pkl)) и до 2019 года ([файл 5](combined_2_index.index), [файл 6](combined_2_index.pkl)). Хранилища до 2022 и 2023 годов нельзя прикрепить к репозиторию, поэтому нужно тестировать чат-бот только до 2019 года или скачать недостающие хранилища по [cсылке](https://drive.google.com/drive/folders/1QBJFiuzWUh0IgpeOqMkdQGtuYRxE1z1x?usp=sharing).
+1. Векторные хранилища 2016 года ([файл 1](faiss_2016_index.index), [файл 2](faiss_2016_index.pkl)); до 2017 ([файл 3](combined_1_index.index), [файл 4](combined_1_index.pkl)) и до 2019 года ([файл 5](combined_2_index.index), [файл 6](combined_2_index.pkl)). Хранилища до 2022 и 2023 годов нельзя прикрепить к репозиторию из-за ограничений размера, поэтому нужно тестировать чат-бот только до 2019 года или же скачать недостающие хранилища по [cсылке](https://drive.google.com/drive/folders/1QBJFiuzWUh0IgpeOqMkdQGtuYRxE1z1x?usp=sharing).
 
-2. 
+2. Таблицы с данным для поиска ссылок на источники (файлы data_part_N). 
